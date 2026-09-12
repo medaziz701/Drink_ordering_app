@@ -2,7 +2,7 @@
 
 > Une application Flutter moderne pour commander des boissons avec une interface utilisateur élégante et intuitive.
 
-![screenshot](./screenshots/preview.png)
+
 
 ## 🚀 Stack technique
 
